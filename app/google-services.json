@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "88295426110",
+    "firebase_url": "https://sosyalmedya-ce041.firebaseio.com",
+    "project_id": "sosyalmedya-ce041",
+    "storage_bucket": "sosyalmedya-ce041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88295426110:android:b98c13291aa47ff1",
+        "android_client_info": {
+          "package_name": "com.example.caner.sosyalmedya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88295426110-73avqch1df78eef6jvnrm881t38kkmtr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.caner.sosyalmedya",
+            "certificate_hash": "fab7ae1548ff0b0a7b9d4fcf038a86098dff74a8"
+          }
+        },
+        {
+          "client_id": "88295426110-0g850evutet8slq4h9bt76jn3scdafd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvhq29PrwmCPGYntKyicwVdfMHjP65isE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88295426110-0g850evutet8slq4h9bt76jn3scdafd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
